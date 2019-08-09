@@ -31,18 +31,8 @@ OUTPUT
 JugsMugsPugs
 
 ```
-
+### Program
 num = int(input(""))
 
-if (num % 3 == 0 or '3' in str(num)):
-
-print("Jugs")
-
-if (num % 5 == 0 or '5' in str(num)):
-
-print("Mugs")
-
-if (num % 7 == 0 or '7' in str(num)):
-
-print("Pugs")
+print("Jugs" * (int(num % 3 == 0 or '3' in str(num))) + "Mugs" * (int(num % 5 == 0 or '5' in str(num))) + "Pugs" * (int(num % 7 == 0 or '7' in str(num))))
 
