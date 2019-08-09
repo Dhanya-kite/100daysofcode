@@ -8,3 +8,6 @@ self help
 5) [0.2 HugRight](day003.md)
 6) [0.3 HugLeft](day003a.md)
 7) [1.4. Input/print: Previous and next](day004.md)
+8) [1.5. Input/print: Apple sharing](day005.md)
+9) [1.7. Input/print: Two timestamps](day006.md)
+10) [1.6. Input/print: Hours and minutes](day006a.md)
