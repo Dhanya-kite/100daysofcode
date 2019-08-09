@@ -1,5 +1,5 @@
 # 100daysofcode
-self help
+100 DAYS OF CODING CHALLENGE
 
 1) [1.2 Input/print: Area of right triangle](day001.md)
 2) [1.1 Input/print: Sum of three numbers](day001a.md)
