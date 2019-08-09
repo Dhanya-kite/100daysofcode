@@ -11,3 +11,5 @@ self help
 8) [1.5. Input/print: Apple sharing](day005.md)
 9) [1.7. Input/print: Two timestamps](day006.md)
 10) [1.6. Input/print: Hours and minutes](day006a.md)
+11) [1.8 Input/print: TwoPoints](day007.md)
+12) [2.5. Numbers: Sum of digits](day008.md)
