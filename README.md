@@ -23,3 +23,4 @@
 20) [5.D. Membership: Digit in Number](day012a.md)
 21) [3.S. JugsMugsPugs Lite](day013.md)
 22) [3.U. JugsMugsPugsPlus](day013a.md)
+23) [3.V. JugsMugsPugsPlus Reverse](day014.md)
