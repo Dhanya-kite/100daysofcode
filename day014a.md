@@ -32,6 +32,7 @@ If the boolean 'rev' is True, then reverse the order of printing.
 INPUT 
 5
 0
+
 OUTPUT
 1
 2
@@ -42,6 +43,7 @@ Mugs
 INPUT 
 15
 1
+
 OUTPUT
 1
 2
