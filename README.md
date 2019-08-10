@@ -25,4 +25,4 @@
 22) [3.U. JugsMugsPugsPlus](day013a.md)
 23) [3.V. JugsMugsPugsPlus Reverse](day014.md)
 24) [3.W. JugsMugsPugs Range](day014a.md)
-25) [3.X. JugsMugsPugs Special](day14b.md)
+25) [3.X. JugsMugsPugs Special](day014b.md)
