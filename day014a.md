@@ -1,3 +1,4 @@
+## STATEMENT:
 ### INTERVIEW GRADE
 This is a frequently asked problem in technical interviews. It is also asked of 
 senior software developers to gauge their ability to think and write clean code. 
@@ -28,6 +29,7 @@ If the boolean 'rev' is True, then reverse the order of printing.
    - "PugsMugs" for multiple of 3 and 7
    - "MugsJugs" for multiple of 3 and 5 
    - "PugsJugs" for multiple of 5 and 7
+#### Sample I/O:
 ```
 INPUT 
 5
@@ -62,21 +64,15 @@ Pugs
 MugsJugs
 ```
 ### Program:
+```
 limit = int(input(""))
 rev = int(input())
 i = 1
-
 while(i <= limit):
-
   num = i
-  
   if (rev):
-    
-    print(("Pugs" * (int(i % 7 == 0 or '7' in str(i))) + "Mugs" * (int(i % 5 == 0 or '5' in str(i))) + "Jugs" * (int(i % 3 == 0 or '3' in str(i)))) or num)
-  
+     print(("Pugs" * (int(i % 7 == 0 or '7' in str(i))) + "Mugs" * (int(i % 5 == 0 or '5' in str(i))) + "Jugs" * (int(i % 3 == 0 or '3' in str(i)))) or num)
   else:
-    
-    print(("Jugs" * (int(i % 3 == 0 or '3' in str(i))) + "Mugs" * (int(i % 5 == 0 or '5' in str(i))) + "Pugs" * (int(i % 7 == 0 or '7' in str(i)))) or num)
-  
+     print(("Jugs" * (int(i % 3 == 0 or '3' in str(i))) + "Mugs" * (int(i % 5 == 0 or '5' in str(i))) + "Pugs" * (int(i % 7 == 0 or '7' in str(i)))) or num)
   i = i + 1
-  
+```
