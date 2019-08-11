@@ -1,7 +1,9 @@
+## STATEMENT:
 ### Jugs for Three
 Write a program that receives a number on the input.
 If the number is a multiple of 3, it prints "Jugs". 
 Otherwise, it prints the number.
+#### Sample I/O:
 ```
 INPUT 
 3 
@@ -13,18 +15,16 @@ INPUT
 OUTPUT
 Jugs
 
-
 INPUT 
 112
 OUTPUT
 112
 ```
+#### Program:
+```
 num = int(input(""))
-
 if(num % 3 == 0):
-
-print("Jugs")
-
+  print("Jugs")
 else:
-
-print(num)
+  print(num)
+```
