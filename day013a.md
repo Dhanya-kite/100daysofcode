@@ -1,3 +1,4 @@
+## STATEMENT:
 ### JugsMugsPugs Plus
 Write a program that receives a number on the input.
 
@@ -10,7 +11,7 @@ Otherwise, it prints the number.
 ### SPECIAL REQUIREMENT: 
 Try and limit the number of conditional statements to not more than 4. 
 And use only one print statement.
-
+#### Sample I/O:
 ```
 INPUT 
 73 
@@ -23,16 +24,15 @@ INPUT
 OUTPUT
 JugsMugs
 
-
 INPUT 
 105
 
 OUTPUT 
 JugsMugsPugs
-
 ```
 ### Program
+```
 num = int(input(""))
-
 print("Jugs" * (int(num % 3 == 0 or '3' in str(num))) + "Mugs" * (int(num % 5 == 0 or '5' in str(num))) + "Pugs" * (int(num % 7 == 0 or '7' in str(num))))
 
+```
