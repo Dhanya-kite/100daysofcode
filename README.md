@@ -26,3 +26,6 @@
 23) [3.V. JugsMugsPugsPlus Reverse](day014.md)
 24) [3.W. JugsMugsPugs Range](day014a.md)
 25) [3.X. JugsMugsPugs Special](day015.md)
+26) [4.4. For: Sum of N numbers](day016.md)
+27) [4.5. For: Sum of cubes](day016a.md)
+28) [4.8. For: Sum of factorials](day016b.md)
