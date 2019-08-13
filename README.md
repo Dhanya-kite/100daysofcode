@@ -29,3 +29,5 @@
 26) [4.4. For: Sum of N numbers](day016.md)
 27) [4.5. For: Sum of cubes](day016a.md)
 28) [4.8. For: Sum of factorials](day016b.md)
+29) [4.A. For: Ladder](day017.md)
+30) [4.9. For: Lost card](day017a.md)
