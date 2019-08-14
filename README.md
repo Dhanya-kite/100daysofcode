@@ -31,3 +31,5 @@
 28) [4.8. For: Sum of factorials](day016b.md)
 29) [4.A. For: Ladder](day017.md)
 30) [4.9. For: Lost card](day017a.md)
+31) [6.C. While: Second maximum](day018.md)
+32) [4.X. Spy Plane](day018a.md)
