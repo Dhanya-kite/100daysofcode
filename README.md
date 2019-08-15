@@ -34,3 +34,4 @@
 31) [6.C. While: Second maximum](day018.md)
 32) [4.X. Spy Plane](day018a.md)
 33) [5.1. Strings: Slices](day019.md)
+34) [5.7. Strings: Remove fragment](day019a.md)
