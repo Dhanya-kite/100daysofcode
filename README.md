@@ -35,3 +35,5 @@
 32) [4.X. Spy Plane](day018a.md)
 33) [5.1. Strings: Slices](day019.md)
 34) [5.7. Strings: Remove fragment](day019a.md)
+35) [5.8. Strings: Reverse fragment](day019b.md)
+36) [5.B. Strings: Replace in fragment](day019c.md)
